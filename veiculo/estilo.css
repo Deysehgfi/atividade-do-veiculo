@@ -1,0 +1,26 @@
+label{
+    font-size: 50px;
+
+}
+
+div{
+    margin: auto;
+    background-color: cornsilk;
+    width: 500px;
+}
+
+#resultado{
+    font-size: 50px
+    ;
+    color: brown;
+}
+
+
+body{
+    background-color: rgb(236, 145, 118);
+    /* text-align: center; */
+    
+    margin: 10rem;
+}
+
+button{}
